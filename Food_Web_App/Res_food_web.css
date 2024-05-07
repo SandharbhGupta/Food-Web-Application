@@ -1,0 +1,253 @@
+.food_logo{
+    height: 70px;
+    width: 70px;
+}
+.food_bg_container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.view_menu{
+    background-color: #d0b200;
+    color:white;
+    height: 45px;
+    width: 130px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+.Order_now{
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.description{
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+}
+.banner_heading{
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* wcu */
+
+.wcu-section{
+    background-color:cornsilk;
+}
+
+.wcu-heading{
+    color: darkslateblue;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wcu-discription{
+    font-size: 20px;
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.wcu-card{
+    background-color:ghostwhite;
+    border-radius: 16px;
+    border-color: beige;
+    border-width: 3px;
+    text-align: center;
+}
+.card_image{
+    height: 90px;
+    width: 80px;
+}
+
+.card_title{
+    font-size: 24px;
+    color: darkslateblue;
+    font-weight: 500;
+}
+.card_discription{
+    color: gray;
+}
+.offers{
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+
+/* Explore menu */
+
+.explore-menu-section{
+    background-color: white;
+}
+
+.Explore-heading{
+    font-weight: bold;
+    font-size: 30px;
+    color: darkslateblue;
+}
+
+.explore-card{
+    border-radius: 16px;
+    height: 250px;
+    width: 250px;
+
+}
+.card_image{
+    border-radius: 16px;
+    height: 150px;
+    width: 150px;
+}
+.card-item-heading{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: dimgrey;
+}
+.View_all{
+    color:coral;
+    font-size: 16px;
+
+}
+
+/* Healthy and delivery thanku */
+
+.Healthy_food_section{
+    background-color: #f9fbfe;
+}
+
+.Healthy_image{
+    width: 290px;
+    height: 200px;
+}
+
+.Fresh_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Healthy_food_description{
+    color: grey;
+    font-size: 18px;
+}
+.Watch_button{
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+
+.Delivery_payment_section{
+    background-color: white;
+}
+.delivery_image{
+    height: 300px;
+    width: 290px;
+}
+
+.del_pay_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+.del_pay_description{
+    color: grey;
+    font-size: 18px;   
+}
+.order_now{
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.payment_card_image{
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
+
+.Thanking_customer_section{
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+.thank_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+.thank_descr{
+    color: grey;
+    font-size: 18px; 
+}
+.gift-image{
+    height: 300px;
+    width: 250pxpx;
+}
+.reddem_button{
+    background-image: linear-gradient(#d0b200, #a58d00);
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+  }
+
+/* Follow us */
+.Follow_us_bg_container{
+    background-color: white;
+}
+
+.follow_us_heading{
+    color: darkslateblue;
+    text-align: center;
+
+}
+.follow_us_icon{
+    background-color:#faf7ea;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-left: 22px;
+    padding-right: 16px;
+}
+.icon{
+    color: #d0b200;
+    font-size: 35px;
+}
+
+/* Footer section */
+.footer-section {
+    background-color: #0d2436;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }

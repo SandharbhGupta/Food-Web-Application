@@ -1,0 +1,85 @@
+.Healthy_food_section{
+    background-color: #f9fbfe;
+}
+
+.Healthy_image{
+    width: 290px;
+    height: 200px;
+}
+
+.Fresh_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Healthy_food_description{
+    color: grey;
+    font-size: 18px;
+}
+.Watch_button{
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+
+.Delivery_payment_section{
+    background-color: white;
+}
+.delivery_image{
+    height: 300px;
+    width: 290px;
+}
+
+.del_pay_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+.del_pay_description{
+    color: grey;
+    font-size: 18px;   
+}
+.order_now{
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.payment_card_image{
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
+
+.Thanking_customer_section{
+    background-color:bisque;
+}
+.thank_heading{
+    color: indigo;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+.thank_descr{
+    color: grey;
+    font-size: 18px; 
+}
+.gift-image{
+    height: 300px;
+    width: 250pxpx;
+}
+.reddem_button{
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}

@@ -1,0 +1,42 @@
+.wcu-section{
+    background-color:cornsilk;
+}
+
+.wcu-heading{
+    color: darkslateblue;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wcu-discription{
+    font-size: 20px;
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.wcu-card{
+    background-color:ghostwhite;
+    border-radius: 16px;
+    border-color: beige;
+    border-width: 3px;
+    text-align: center;
+}
+.card_image{
+    height: 90px;
+    width: 80px;
+}
+
+.card_title{
+    font-size: 24px;
+    color: darkslateblue;
+    font-weight: 500;
+}
+.card_discription{
+    color: gray;
+}
+.offers{
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
